@@ -1,4 +1,4 @@
-1. Java ✅ (hozir shu yerdasан)
+1. Java
         ↓
 2. Java Collection API
         ↓
